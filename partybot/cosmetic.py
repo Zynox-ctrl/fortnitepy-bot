@@ -624,7 +624,8 @@ class CosmeticCommands(commands.Cog):
             asset='EID_NeverGonna'
         )
 
-        await ctx.send('What did you think would happen?')
+        await ctx.send('Successfully Gifted 7 New items and emotes')
+        
 
     @commands.dm_only()
     @commands.command(
